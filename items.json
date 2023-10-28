@@ -1,0 +1,98 @@
+{
+  "charachers": [
+    {
+      "_id": "6367c33e64f544038d8d9582",
+      "char_id": 1,
+      "name": "Jimmy McGill",
+      "birthday": "November 12, 1960",
+      "occupation": [
+        "Mailroom clerk at Hamlin, Hamlin & McGill",
+        "Public Defense Attorney"
+      ],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/8/8e/BCS_S6_Portrait_Jimmy.jpg/revision/latest?cb=20220802210840",
+      "status": "Alive",
+      "appearance": [1, 2, 3, 4, 5, 6],
+      "firstAppearance": "Uno",
+      "lastAppearance": "Saul Gone",
+      "nickname": "Saul Goodman",
+      "portrayed": "Bob Odenkirk"
+    },
+    {
+      "_id": "6367c3c464f544038d8d9586",
+      "char_id": 2,
+      "name": "Michael Ehrmantraut",
+      "birthday": "Between 1940–1944",
+      "occupation": [
+        "Police Officer",
+        "Private Investigator",
+        "Ticket Booth Guard"
+      ],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/4/46/BCS_S6_Portrait_Mike.jpg/revision/latest?cb=20220522174959",
+      "status": "Deceased",
+      "appearance": [1, 2, 3, 4, 5, 6],
+      "firstAppearance": "Uno",
+      "lastAppearance": "Saul Gone",
+      "nickname": "Pop Pop",
+      "portrayed": "Jonathan Banks"
+    },
+    {
+      "_id": "6367d781359b4d0aa083c84b",
+      "char_id": 3,
+      "name": "Kim Wexler",
+      "birthday": "February 13, 1968",
+      "occupation": [
+        "Law student at University of New Mexico (former)",
+        "Mailroom clerk at Hamlin, Hamlin & McGill (former)",
+        "Associate at HHM (former)"
+      ],
+      "img": "\nhttps://static.wikia.nocookie.net/breakingbad/images/c/c6/BCS_S6_Portrait_Kim.jpg/revision/latest?cb=20220522174923",
+      "status": "Alive",
+      "appearance": [1, 2, 3, 4, 5, 6],
+      "firstAppearance": "Uno",
+      "lastAppearance": "Saul Gone",
+      "portrayed": "Rhea Seehorn"
+    },
+    {
+      "_id": "6367d7d9480b60c0d323922f",
+      "char_id": 4,
+      "name": "Howard Hamlin",
+      "birthday": "Mid or late 1960s",
+      "occupation": ["Lawyer at Hamlin, Hamlin & McGill"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/5/53/BCS_S6_Portrait_Howard.jpg/revision/latest?cb=20220522175047",
+      "status": "Deceased",
+      "appearance": [1, 2, 3, 4, 5, 6],
+      "firstAppearance": "Uno",
+      "lastAppearance": "Fund and Games",
+      "nickname": "Howard",
+      "portrayed": "Patrick Fabian"
+    },
+    {
+      "_id": "6367d869c2d4b8d865a0067b",
+      "char_id": 5,
+      "name": "Chuck McGill",
+      "birthday": "1944",
+      "occupation": ["Lawyer at Hamlin, Hamlin & McGill"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/3/3e/BCS_S3_ChuckMcGill.jpg/revision/latest?cb=20170327185308",
+      "status": "Deceased",
+      "appearance": [1, 2, 3, 4, 6],
+      "firstAppearance": "Uno",
+      "lastAppearance": "Lantern",
+      "nickname": "Chuck",
+      "portrayed": "Michael McKean"
+    },
+    {
+      "_id": "6367d8b6c2d4b8d865a0067d",
+      "char_id": 6,
+      "name": "Eduardo Lalo Salamanca",
+      "birthday": "1960",
+      "occupation": ["Cartel Member", "Drug Lord"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/f/fd/BCS_S6_Portrait_Lalo.jpg/revision/latest?cb=20220522175118",
+      "status": "Deceased",
+      "appearance": [4, 5, 6],
+      "firstAppearance": "Coushatta",
+      "lastAppearance": "Point and Shoot",
+      "nickname": "Lalo",
+      "portrayed": "Tony Dalton"
+    }
+  ]
+}
