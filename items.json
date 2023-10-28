@@ -1,7 +1,7 @@
 {
-  "charachers": [
+  "characters": [
     {
-      "_id": "6367c33e64f544038d8d9582",
+      "id": "6367c33e64f544038d8d9582",
       "char_id": 1,
       "name": "Jimmy McGill",
       "birthday": "November 12, 1960",
@@ -17,9 +17,8 @@
       "nickname": "Saul Goodman",
       "portrayed": "Bob Odenkirk"
     },
-
     {
-      "_id": "6367c3c464f544038d8d9586",
+      "id": "6367c3c464f544038d8d9586",
       "char_id": 2,
       "name": "Michael Ehrmantraut",
       "birthday": "Between 1940–1944",
@@ -36,9 +35,8 @@
       "nickname": "Pop Pop",
       "portrayed": "Jonathan Banks"
     },
-
     {
-      "_id": "6367d781359b4d0aa083c84b",
+      "id": "6367d781359b4d0aa083c84b",
       "char_id": 3,
       "name": "Kim Wexler",
       "birthday": "February 13, 1968",
@@ -54,9 +52,8 @@
       "lastAppearance": "Saul Gone",
       "portrayed": "Rhea Seehorn"
     },
-
     {
-      "_id": "6367d7d9480b60c0d323922f",
+      "id": "6367d7d9480b60c0d323922f",
       "char_id": 4,
       "name": "Howard Hamlin",
       "birthday": "Mid or late 1960s",
@@ -69,9 +66,8 @@
       "nickname": "Howard",
       "portrayed": "Patrick Fabian"
     },
-
     {
-      "_id": "6367d869c2d4b8d865a0067b",
+      "id": "6367d869c2d4b8d865a0067b",
       "char_id": 5,
       "name": "Chuck McGill",
       "birthday": "1944",
@@ -84,9 +80,8 @@
       "nickname": "Chuck",
       "portrayed": "Michael McKean"
     },
-
     {
-      "_id": "6367d8b6c2d4b8d865a0067d",
+      "id": "6367d8b6c2d4b8d865a0067d",
       "char_id": 6,
       "name": "Eduardo Lalo Salamanca",
       "birthday": "1960",
@@ -98,6 +93,190 @@
       "lastAppearance": "Point and Shoot",
       "nickname": "Lalo",
       "portrayed": "Tony Dalton"
+    },
+    {
+      "id": "6367d8d4c2d4b8d865a0067f",
+      "char_id": 7,
+      "name": "Gustavo Fring",
+      "birthday": "Late 1950s or early 1960s",
+      "occupation": ["Drug Lord", "Los Pollos Hermanos CEO"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/5/54/BCS_S3_GusFring.jpg/revision/latest?cb=20170327185354",
+      "status": "Deceased",
+      "appearance": [3, 4, 5, 6],
+      "firstAppearance": "Witness",
+      "lastAppearance": "Fun and Games",
+      "nickname": "Gus",
+      "portrayed": "Giancarlo Esposito"
+    },
+    {
+      "id": "6367d915c2d4b8d865a00683",
+      "char_id": 8,
+      "name": "Hector Salamanca",
+      "birthday": "1939",
+      "occupation": ["Cartel Member", "Drug Lord"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/3/34/TioSalamanca.jpg/revision/latest?cb=20100516195603",
+      "status": "Deceased",
+      "appearance": [2, 3, 4, 5, 6],
+      "firstAppearance": "Rebecca",
+      "lastAppearance": "Fun and Games",
+      "nickname": "Tio",
+      "portrayed": "Mark Margolis"
+    },
+    {
+      "id": "6367d9a6c2d4b8d865a00685",
+      "char_id": 9,
+      "name": "Stacey Ehrmantraut",
+      "birthday": "Unknown",
+      "occupation": ["Nursing/medicine"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/2/2f/Stacey_S5.png/revision/latest?cb=20200307021352",
+      "status": "Alive",
+      "appearance": [2, 3, 4, 5, 6],
+      "firstAppearance": "Alpine Shepherd Boy",
+      "lastAppearance": "Axe and Grind",
+      "nickname": "Stace",
+      "portrayed": "Kerry Condon"
+    },
+    {
+      "id": "6367da33c2d4b8d865a00687",
+      "char_id": 10,
+      "name": "Kaylee Ehrmantraut",
+      "birthday": "c. 1997",
+      "occupation": ["Unknown"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/9/97/Kaylee_Ehrmantraut.png/revision/latest?cb=20220527131629",
+      "status": "Alive",
+      "appearance": [1, 2, 3, 4, 5, 6],
+      "firstAppearance": "Five-O",
+      "lastAppearance": "Axe and Grind",
+      "nickname": "Unknown",
+      "portrayed": "Kaija Roze Bales"
+    },
+    {
+      "id": "6367daa9c2d4b8d865a00689",
+      "char_id": 11,
+      "name": "Paige Novick",
+      "birthday": "Unknown",
+      "occupation": ["Senior Counsel for Mesa Verde Bank & Trust"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/a/a4/Paige_Novick.png/revision/latest?cb=20170528205350",
+      "status": "Alive",
+      "appearance": [2, 3, 4, 5],
+      "firstAppearance": "Rebecca",
+      "lastAppearance": "JMM",
+      "nickname": "Unknown",
+      "portrayed": "Cara Pifko"
+    },
+    {
+      "id": "6367db28c2d4b8d865a0068b",
+      "char_id": 12,
+      "name": "Victor",
+      "birthday": "c. 1974",
+      "occupation": [
+        "Member of the Los Pollos Hermanos security staff Henchman of Gustavo Fring"
+      ],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/a/ad/Victor_2009.jpg/revision/latest?cb=20220919160606",
+      "status": "Deceased",
+      "appearance": [3, 4, 5, 6],
+      "firstAppearance": "Witness",
+      "lastAppearance": "Point and Shoot",
+      "nickname": "Unsub Bystander",
+      "portrayed": "Jeremiah Bitsui"
+    },
+    {
+      "id": "6367dba0c2d4b8d865a0068d",
+      "char_id": 13,
+      "name": "Richard I. Schweikart",
+      "birthday": "c. 1974",
+      "occupation": [
+        "Co-founder of Schweikart & Cokely",
+        "Attorney for Sandpiper Crossing"
+      ],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/9/91/BCS_407_Rich_Schweikart.png/revision/latest?cb=20220601002423",
+      "status": "Alive",
+      "appearance": [1, 2, 4, 5, 6],
+      "firstAppearance": "RICO",
+      "lastAppearance": "Fun and Games",
+      "nickname": "Rick",
+      "portrayed": "Dennis Boutsikaris"
+    },
+    {
+      "id": "6368c88e90673c31dd71d49d",
+      "char_id": 14,
+      "name": "Marshall Dixon",
+      "birthday": "c. 1982",
+      "occupation": ["Student at University of New Mexico"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/7/70/Joey_S5.png/revision/latest?cb=20200317175343",
+      "status": "Alive",
+      "appearance": [1, 2, 3, 4, 5, 6],
+      "firstAppearance": "Hero",
+      "lastAppearance": "Plan and Execution",
+      "portrayed": "Josh Fadem"
+    },
+    {
+      "id": "6368c8d990673c31dd71d4a0",
+      "char_id": 15,
+      "name": "Phil",
+      "birthday": "Unknown",
+      "occupation": ["Student at University of New Mexico"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/b/b2/Sound_Guy_S5.png/revision/latest?cb=20200317180755",
+      "status": "Alive",
+      "appearance": [1, 2, 3, 4, 5, 6],
+      "firstAppearance": "Hero",
+      "lastAppearance": "Plan and Execution",
+      "portrayed": "Julian Bonfiglio"
+    },
+    {
+      "id": "6368c93590673c31dd71d4a3",
+      "char_id": 16,
+      "name": "Kevin Wachtell",
+      "birthday": "c. 1950",
+      "occupation": ["CEO of Mesa Verde Bank and Trust"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/c/ce/Kevin_wachtell_2002.png/revision/latest?cb=20220916140651",
+      "status": "Alive",
+      "appearance": [1, 2, 3, 4, 5, 6],
+      "firstAppearance": "Rebecca",
+      "lastAppearance": "Wine and Roses",
+      "portrayed": "Rex Linn"
+    },
+    {
+      "id": "6368c97b90673c31dd71d4a6",
+      "char_id": 17,
+      "name": "Ernesto",
+      "birthday": "Unknown",
+      "occupation": ["Employee at Hamlin, Hamlin & McGill"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/8/83/Ernesto.png/revision/latest?cb=20160222124417",
+      "status": "Alive",
+      "appearance": [1, 2, 3, 4],
+      "firstAppearance": "RICO",
+      "lastAppearance": "Sunk Costs",
+      "portrayed": "Brandon K. Hampton"
+    },
+    {
+      "id": "6368ca0690673c31dd71d4ab",
+      "char_id": 18,
+      "name": "Arturo Colon",
+      "birthday": "Unknown",
+      "occupation": ["Cartel enforcer"],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/1/17/Arturo_S3.png/revision/latest?cb=20200307044204",
+      "status": "Deceased",
+      "appearance": [2, 3, 4],
+      "firstAppearance": "Bali Ha'i",
+      "lastAppearance": "Something Beautiful",
+      "portrayed": "Vincent Fuentes"
+    },
+    {
+      "id": "6368caa090673c31dd71d4ae",
+      "char_id": 19,
+      "name": "Tyrus Kitt",
+      "birthday": "c. 1971",
+      "occupation": [
+        "Member of the Los Pollos Hermanos Security Staff",
+        "Henchman of Gustavo Fring"
+      ],
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/a/af/TyrusKitt.jpg/revision/latest?cb=20170810093130",
+      "status": "Deceased",
+      "appearance": [4],
+      "firstAppearance": "Sunk Costs",
+      "lastAppearance": "Point and Shoot",
+      "portrayed": "Ray Campbell"
     }
   ]
 }
