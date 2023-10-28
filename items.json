@@ -1,8 +1,8 @@
 {
   "characters": [
     {
-      "id": "6367c33e64f544038d8d9582",
-      "char_id": 1,
+      "id": 1,
+      "hash": "6367c33e64f544038d8d9582",
       "name": "Jimmy McGill",
       "birthday": "November 12, 1960",
       "occupation": [
@@ -18,8 +18,8 @@
       "portrayed": "Bob Odenkirk"
     },
     {
-      "id": "6367c3c464f544038d8d9586",
-      "char_id": 2,
+      "id": 2,
+      "hash": "6367c3c464f544038d8d9586",
       "name": "Michael Ehrmantraut",
       "birthday": "Between 1940–1944",
       "occupation": [
@@ -36,8 +36,8 @@
       "portrayed": "Jonathan Banks"
     },
     {
-      "id": "6367d781359b4d0aa083c84b",
-      "char_id": 3,
+      "id": 3,
+      "hash": "6367d781359b4d0aa083c84b",
       "name": "Kim Wexler",
       "birthday": "February 13, 1968",
       "occupation": [
@@ -53,8 +53,8 @@
       "portrayed": "Rhea Seehorn"
     },
     {
-      "id": "6367d7d9480b60c0d323922f",
-      "char_id": 4,
+      "id": 4,
+      "hash": "6367d7d9480b60c0d323922f",
       "name": "Howard Hamlin",
       "birthday": "Mid or late 1960s",
       "occupation": ["Lawyer at Hamlin, Hamlin & McGill"],
@@ -67,8 +67,8 @@
       "portrayed": "Patrick Fabian"
     },
     {
-      "id": "6367d869c2d4b8d865a0067b",
-      "char_id": 5,
+      "id": 5,
+      "hash": "6367d869c2d4b8d865a0067b",
       "name": "Chuck McGill",
       "birthday": "1944",
       "occupation": ["Lawyer at Hamlin, Hamlin & McGill"],
@@ -81,8 +81,8 @@
       "portrayed": "Michael McKean"
     },
     {
-      "id": "6367d8b6c2d4b8d865a0067d",
-      "char_id": 6,
+      "id": 6,
+      "hash": "6367d8b6c2d4b8d865a0067d",
       "name": "Eduardo Lalo Salamanca",
       "birthday": "1960",
       "occupation": ["Cartel Member", "Drug Lord"],
@@ -95,8 +95,8 @@
       "portrayed": "Tony Dalton"
     },
     {
-      "id": "6367d8d4c2d4b8d865a0067f",
-      "char_id": 7,
+      "id": 7,
+      "hash": "6367d8d4c2d4b8d865a0067f",
       "name": "Gustavo Fring",
       "birthday": "Late 1950s or early 1960s",
       "occupation": ["Drug Lord", "Los Pollos Hermanos CEO"],
@@ -109,8 +109,8 @@
       "portrayed": "Giancarlo Esposito"
     },
     {
-      "id": "6367d915c2d4b8d865a00683",
-      "char_id": 8,
+      "id": 8,
+      "hash": "6367d915c2d4b8d865a00683",
       "name": "Hector Salamanca",
       "birthday": "1939",
       "occupation": ["Cartel Member", "Drug Lord"],
@@ -123,8 +123,8 @@
       "portrayed": "Mark Margolis"
     },
     {
-      "id": "6367d9a6c2d4b8d865a00685",
-      "char_id": 9,
+      "id": 9,
+      "hash": "6367d9a6c2d4b8d865a00685",
       "name": "Stacey Ehrmantraut",
       "birthday": "Unknown",
       "occupation": ["Nursing/medicine"],
@@ -137,8 +137,8 @@
       "portrayed": "Kerry Condon"
     },
     {
-      "id": "6367da33c2d4b8d865a00687",
-      "char_id": 10,
+      "id": 10,
+      "hash": "6367da33c2d4b8d865a00687",
       "name": "Kaylee Ehrmantraut",
       "birthday": "c. 1997",
       "occupation": ["Unknown"],
@@ -151,8 +151,8 @@
       "portrayed": "Kaija Roze Bales"
     },
     {
-      "id": "6367daa9c2d4b8d865a00689",
-      "char_id": 11,
+      "id": 11,
+      "hash": "6367daa9c2d4b8d865a00689",
       "name": "Paige Novick",
       "birthday": "Unknown",
       "occupation": ["Senior Counsel for Mesa Verde Bank & Trust"],
@@ -165,8 +165,8 @@
       "portrayed": "Cara Pifko"
     },
     {
-      "id": "6367db28c2d4b8d865a0068b",
-      "char_id": 12,
+      "id": 12,
+      "hash": "6367db28c2d4b8d865a0068b",
       "name": "Victor",
       "birthday": "c. 1974",
       "occupation": [
@@ -181,8 +181,8 @@
       "portrayed": "Jeremiah Bitsui"
     },
     {
-      "id": "6367dba0c2d4b8d865a0068d",
-      "char_id": 13,
+      "id": 13,
+      "hash": "6367dba0c2d4b8d865a0068d",
       "name": "Richard I. Schweikart",
       "birthday": "c. 1974",
       "occupation": [
@@ -198,8 +198,8 @@
       "portrayed": "Dennis Boutsikaris"
     },
     {
-      "id": "6368c88e90673c31dd71d49d",
-      "char_id": 14,
+      "id": 14,
+      "hash": "6368c88e90673c31dd71d49d",
       "name": "Marshall Dixon",
       "birthday": "c. 1982",
       "occupation": ["Student at University of New Mexico"],
@@ -211,8 +211,8 @@
       "portrayed": "Josh Fadem"
     },
     {
-      "id": "6368c8d990673c31dd71d4a0",
-      "char_id": 15,
+      "id": 15,
+      "hash": "6368c8d990673c31dd71d4a0",
       "name": "Phil",
       "birthday": "Unknown",
       "occupation": ["Student at University of New Mexico"],
@@ -224,8 +224,8 @@
       "portrayed": "Julian Bonfiglio"
     },
     {
-      "id": "6368c93590673c31dd71d4a3",
-      "char_id": 16,
+      "id": 16,
+      "hash": "6368c93590673c31dd71d4a3",
       "name": "Kevin Wachtell",
       "birthday": "c. 1950",
       "occupation": ["CEO of Mesa Verde Bank and Trust"],
@@ -237,8 +237,8 @@
       "portrayed": "Rex Linn"
     },
     {
-      "id": "6368c97b90673c31dd71d4a6",
-      "char_id": 17,
+      "id": 17,
+      "hash": "6368c97b90673c31dd71d4a6",
       "name": "Ernesto",
       "birthday": "Unknown",
       "occupation": ["Employee at Hamlin, Hamlin & McGill"],
@@ -250,8 +250,8 @@
       "portrayed": "Brandon K. Hampton"
     },
     {
-      "id": "6368ca0690673c31dd71d4ab",
-      "char_id": 18,
+      "id": 18,
+      "hash": "6368ca0690673c31dd71d4ab",
       "name": "Arturo Colon",
       "birthday": "Unknown",
       "occupation": ["Cartel enforcer"],
@@ -263,8 +263,8 @@
       "portrayed": "Vincent Fuentes"
     },
     {
-      "id": "6368caa090673c31dd71d4ae",
-      "char_id": 19,
+      "id": 19,
+      "hash": "6368caa090673c31dd71d4ae",
       "name": "Tyrus Kitt",
       "birthday": "c. 1971",
       "occupation": [
