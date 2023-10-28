@@ -17,6 +17,7 @@
       "nickname": "Saul Goodman",
       "portrayed": "Bob Odenkirk"
     },
+
     {
       "_id": "6367c3c464f544038d8d9586",
       "char_id": 2,
@@ -35,6 +36,7 @@
       "nickname": "Pop Pop",
       "portrayed": "Jonathan Banks"
     },
+
     {
       "_id": "6367d781359b4d0aa083c84b",
       "char_id": 3,
@@ -52,6 +54,7 @@
       "lastAppearance": "Saul Gone",
       "portrayed": "Rhea Seehorn"
     },
+
     {
       "_id": "6367d7d9480b60c0d323922f",
       "char_id": 4,
@@ -66,6 +69,7 @@
       "nickname": "Howard",
       "portrayed": "Patrick Fabian"
     },
+
     {
       "_id": "6367d869c2d4b8d865a0067b",
       "char_id": 5,
@@ -80,6 +84,7 @@
       "nickname": "Chuck",
       "portrayed": "Michael McKean"
     },
+
     {
       "_id": "6367d8b6c2d4b8d865a0067d",
       "char_id": 6,
